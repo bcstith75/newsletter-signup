@@ -254,4 +254,13 @@ body {
     width:375px;
   }
 
+  .confirm-box {
+    display: flex;
+    background-color: #FFF;
+    border-radius: 20px;
+    width: 40.5rem;
+    margin: 0 auto;
+    translate: 0 10px;
+  }
+
 }

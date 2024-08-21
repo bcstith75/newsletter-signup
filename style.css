@@ -234,6 +234,8 @@ body {
     display: flex;
     flex-direction: column;
     width: 47.5rem;
+    margin-top: 0.5rem;
+    translate: 0 0;
   }
 
   .main-box-inner {
